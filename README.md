@@ -1,3 +1,3 @@
 # Calculator Project
-### This file is modified to include a link to google site
+### Create Calculator class with test classes including testing methods
 
